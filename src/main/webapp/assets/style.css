@@ -1,0 +1,19 @@
+body, * {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+input[type=text] {
+    width: 100%;
+    border: solid 1px #D4D4D1;
+    transition: .7s;
+    font-size: 1.1em;
+    padding: 0.3em;
+    margin: 0.2em 0;
+}
